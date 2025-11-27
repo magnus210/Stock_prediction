@@ -46,7 +46,6 @@ This is a **personal learning project** built out of curiosity to understand:
 | Visualization | ✅ Done | Historical + predictions plot |
 | Model Evaluation | 🚧 WIP | RMSE, MAE metrics |
 | Hyperparameter Tuning | 🚧 WIP | Grid search for optimal params |
-| Multi-stock Support | 📅 Planned | Extend to multiple tickers |
 
 ## Tech Stack
 
